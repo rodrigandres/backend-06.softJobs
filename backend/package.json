@@ -4,6 +4,7 @@
   "description": "Desafio Autentificación y Autorizacion de Usuarios con JWT",
   "version": "0.0.1",
   "license": "MIT",
+  "type": "module",
   "main": "app.js",
   "engines": {
     "node": "18.16.0"
